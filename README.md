@@ -1,6 +1,6 @@
 # SCRAPMEDS
 
-* Python script for scraping the data from netmeds.com 
+* Python script for scraping the data from netmeds.com (base url https://www.netmeds.com/)
 * Functionality of category wise scraping is added.
 * Multiple pages can be fetched as well.
 * scraped data can be stored in .csv file
@@ -39,3 +39,4 @@ python scrapmads.py
 ```
 
 # Thank you
+
