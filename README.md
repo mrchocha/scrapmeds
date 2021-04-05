@@ -40,6 +40,7 @@ for windows
 ```
 python scrapmads.py
 ```
+after running the code you will be able to see the list of categories. now you have to select one categories and no of pages to fetch. after fetching the data will be store in respective .csv files. To exit the program write `break`.
 
 # Thank you
 
