@@ -1,10 +1,13 @@
 # SCRAPMEDS
+Python script for scraping the data of netmeds.com
 
-* Python script for scraping the data from netmeds.com (base url https://www.netmeds.com/)
-* Functionality of category wise scraping is added.
+# About 
+## Status : Fully Functional :)
+* Base url https://www.netmeds.com/ is used for scraping the data.
+* Functionality of category wise scraping.
 * Multiple pages can be fetched as well.
-* scraped data can be stored in .csv file
-* tested script by scraping 10 pages of each category.
+* Scraped data can be stored in .csv file
+* Tested script by scraping 10 pages of each category (examples inside the [CSVs](https://github.com/mrchocha/scrapmeds/tree/main/CSVs) folder).
   
 # Scraped Fields
 * Product name

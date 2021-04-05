@@ -1,4 +1,4 @@
-product_name,drug_varient,product_photo_url,product_photo_url,final_price,original_price,offer,is_in_stock
+product_name,drug_varient,product_photo_url,product_url,final_price,original_price,offer,is_in_stock
 Itch Guard+ Cream 12 gm,Mfr: Reckitt Benckiser India Ltd,https://www.netmeds.com/images/product-v1/150x150/411907/itch_guard_cream_12_gm_0.jpg,https://www.netmeds.com/non-prescriptions/itch-guard-cream-12gm,Rs. 70.00,None,None,True
 Moov Pain Relief Specialist Cream 30 gm,Mfr: Reckitt Benckiser India Ltd,https://www.netmeds.com/images/product-v1/150x150/803075/moov_pain_relief_specialist_cream_30_gm_0.jpg,https://www.netmeds.com/non-prescriptions/moov-pain-relief-specialist-cream-30gm,Rs. 112.50,Rs. 125.00,10% OFF,True
 D Protin Chocolate Powder 500 gm,Mfr: British Biologicals,https://www.netmeds.com/images/product-v1/150x150/357753/d_protin_chocolate_powder_500_gm_0.jpg,https://www.netmeds.com/non-prescriptions/d-protin-chocolate-powder-500gm,Rs. 473.96,Rs. 578.00,18% OFF,True

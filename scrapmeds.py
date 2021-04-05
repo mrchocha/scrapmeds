@@ -15,7 +15,7 @@ Email: rahul.c@ahduni.edu.in
 def scrap_netmeds(name, url, pages):
     # make pandas dataframe to store data of all the products
     scraped_data = pd.DataFrame([], columns=[
-                                'product_name', 'drug_varient', 'product_photo_url', 'product_photo_url', 'final_price', 'original_price', 'offer', 'is_in_stock'])
+                                'product_name', 'drug_varient', 'product_photo_url', 'product_url', 'final_price', 'original_price', 'offer', 'is_in_stock'])
 
     # repeat the process for all the pages
     for page in range(1, pages+1):

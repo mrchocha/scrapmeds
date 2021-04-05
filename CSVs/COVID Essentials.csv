@@ -1,4 +1,4 @@
-product_name,drug_varient,product_photo_url,product_photo_url,final_price,original_price,offer,is_in_stock
+product_name,drug_varient,product_photo_url,product_url,final_price,original_price,offer,is_in_stock
 1Mile Pulse Oximeter - Blue,Mfr: 1 Mile Healthcare,https://www.netmeds.com/images/product-v1/150x150/918867/1mile_pulse_oximeter_blue_0_0.jpg,https://www.netmeds.com/non-prescriptions/1mile-pulse-oximeter-blue-1s,"Rs. 1,125.00","Rs. 4,500.00",75% OFF,True
 Tri-Activ Instant Hand Sanitizer 500 ml,Mfr: Piramal Healthcare Ltd,https://www.netmeds.com/images/product-v1/150x150/910016/tri_activ_instant_hand_sanitizer_500_ml_0_1.jpg,https://www.netmeds.com/non-prescriptions/tri-activ-instant-hand-sanitizer-500-ml,Rs. 237.50,Rs. 250.00,5% OFF,True
 Medisales PPE Kit,Mfr: Medisales,https://www.netmeds.com/images/product-v1/150x150/910025/medisales_ppe_kit_0_0.jpg,https://www.netmeds.com/non-prescriptions/medisales-ppe-kit-1s,Rs. 974.35,"Rs. 1,499.00",35% OFF,True
